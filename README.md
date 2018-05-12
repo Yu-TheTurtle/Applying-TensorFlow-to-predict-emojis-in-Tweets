@@ -2,4 +2,6 @@
 
 Emoji analysis of Tweet
 
-The start of using Github in the Twitter project(05/11).
+1. Streaming Tweet through API 
+2. Build dataframe where column is emoji and row is word
+
